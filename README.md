@@ -102,3 +102,23 @@ json
 ## Author
 
 *Manasa Degam*
+
+---
+
+# Project Demo
+
+## Swagger UI
+
+![Swagger UI](images/swagger-ui.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result](images/prediction-result.png)
+
+---
+
+## Project Structure
+
+![Project Structure](images/vscode-project.png)
