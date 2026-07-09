@@ -1,7 +1,8 @@
 numpy
 pandas
-Scikit-learen
+scikit-learn
 matplotlib
 fastapi
 uvicorn
 joblib
+xgboost
